@@ -4,7 +4,7 @@ Input Text:
 
 Output /Result: (at Local Environment)
 
+![rgeg](https://user-images.githubusercontent.com/56412471/138054364-28e08ba0-2fea-4650-b846-9b0e44df58ae.JPG)
 
-![fer](https://user-images.githubusercontent.com/56412471/138054036-66ad4fba-f47e-4059-9d0f-de7151a27c61.JPG)
 
 ![fghfdh](https://user-images.githubusercontent.com/56412471/138054073-c2e37481-8783-48ff-9d5a-0877fc5db30f.JPG)
